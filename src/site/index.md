@@ -1,5 +1,5 @@
 ---
-title: EleventyOne
+title: The Highland BBCoo
 description: the annual highland bbcoo event, which may or may not become annual in perpetuity
 layout: layouts/base.njk
 ---
