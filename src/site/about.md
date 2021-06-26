@@ -1,5 +1,6 @@
 ---
 title: It's a BB Cooooooo!
+description: a bit of info about the highland bbcoo
 layout: layouts/base.njk
 subtitle: celebrating the Scottish Summer
 ---
